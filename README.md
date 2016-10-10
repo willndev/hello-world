@@ -1,5 +1,5 @@
 # hello-world
 
-Hi humans!
+Hello Cloud Gurus
 
 Lorem ipsum dolores sit amit adipiscing
